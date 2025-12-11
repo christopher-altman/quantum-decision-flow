@@ -1,0 +1,8 @@
+pennylane>=0.36,<0.40
+autoray>=0.6.0,<0.7.0
+numpy>=1.21,<2.0
+matplotlib>=3.5
+scikit-learn>=1.0
+scipy>=1.8
+pytest>=7.0
+jupyter>=1.0
