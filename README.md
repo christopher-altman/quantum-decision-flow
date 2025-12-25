@@ -180,17 +180,49 @@ Outputs topology preservation scores for ZZ+X vs Heisenberg across t ∈ [0.5, 5
 - **v2.0.0**: Multiple Hamiltonians, dataset types, topology metrics
 - **v1.0.0**: Initial release
 
-## License
+---
 
-MIT
+## References
 
-## Citation
+1. C. Altman, J. Pykacz & R. Zapatrin, “Superpositional Quantum Network Topologies,” *International Journal of Theoretical Physics* 43, 2029–2041 (2004).
+   DOI: [10.1023/B:IJTP.0000049008.51567.ec](https://doi.org/10.1023/B:IJTP.0000049008.51567.ec) · arXiv: [q-bio/0311016](https://arxiv.org/abs/q-bio/0311016)
+
+2. C. Altman & R. Zapatrin, “Backpropagation in Adaptive Quantum Networks,” *International Journal of Theoretical Physics* 49, 2991–2997 (2010).  
+   DOI: [10.1007/s10773-009-0103-1](https://doi.org/10.1007/s10773-009-0103-1) · arXiv: [0903.4416](https://arxiv.org/abs/0903.4416)
+
+---
+
+## Citations
+
+If you use or build on this work, please cite:
+
+> Quantum Decision Flow 2.1
 
 ```bibtex
 @software{quantum_decision_flow_2_1,
-  title  = {Quantum Decision Flow 2.1},
   author = {Altman, Christopher},
+  title  = {Quantum Decision Flow 2.1},
   year   = {2025},
   url    = {https://github.com/christopher-altman/quantum-decision-flow}
 }
 ```
+
+## License
+
+MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+## Contact
+
+- **Website:** [christopheraltman.com](https://christopheraltman.com)
+- **GitHub:** [github.com/christopher-altman](https://github.com/christopher-altman)
+- **Google Scholar:** [scholar.google.com/citations?user=tvwpCcgAAAAJ](https://scholar.google.com/citations?user=tvwpCcgAAAAJ)
+- **Email:** x@christopheraltman.com
+
+---
+
+*Christopher Altman (2025)*
+
+
+
