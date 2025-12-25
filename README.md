@@ -176,7 +176,7 @@ The deformation rule above is applied pointwise to a two-spiral dataset as time 
 </p>
 
 <p align="center"><em>
-Quantum deformation of a classical two-spiral dataset under Hamiltonian time evolution. Each panel shows the induced coordinate deformation at increasing evolution time t.
+Quantum deformation of a two-spiral dataset under Heisenberg time evolution. Panels show the induced coordinate deformation as t increases; deformation remains structured and largely topology-preserving across the sweep.
 </em></p>
 
 ---
