@@ -9,7 +9,7 @@
 
 [![X](https://img.shields.io/badge/X-@coherence-blue)](https://x.com/coherence)
 [![Website](https://img.shields.io/badge/website-christopheraltman.com-green)](https://www.christopheraltman.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher%20Altman-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Altman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Altman-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Altman)
 <!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
 
 Quantum Decision Flow applies small quantum circuits as dynamical systems: classical points are encoded into two-qubit quantum states, evolved under a chosen Hamiltonian, and decoded back into deformed coordinates via expectation values. The result is a controllable family of topology-aware dataset deformations parameterized by evolution time t and Hamiltonian type. Different Hamiltonians produce distinct deformation signatures and topology-preservation statistics, enabling “dynamics-as-augmentation” for geometric learning tasks.
